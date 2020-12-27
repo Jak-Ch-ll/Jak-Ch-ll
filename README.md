@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there,
 
-<!--
-**Jak-Ch-ll/Jak-Ch-ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jakob, a self-taught web programmer. I don't consider myself a developer yet, but I am commited to becoming one within the next few months.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current goals:
+
+* Making some learning projects with React
+* Learn and use Jest
+* Learn and use TDD
+
+
+#### Tutorials I'm working on
+
+* [JS Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11072080#overview) by Colt Steele on Udemy
+* [Fullstack React, GraphQL and TS Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8) by Ben Awad on Youtube
+
+
+#### Topics, I want to look at in the future
+
+* Deno
+* Svelte
+* A different programming language
