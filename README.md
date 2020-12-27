@@ -1,6 +1,6 @@
 ### Hello there,
 
-I'm Jakob, a self-taught web programmer. I don't consider myself a developer yet, but I am commited to becoming one within the next few months.
+I'm Jakob, a self-taught web programmer. I don't consider myself a developer yet, but I am commited to becoming one within the next few months, by working on more and more projects.
 
 
 #### Current goals:
