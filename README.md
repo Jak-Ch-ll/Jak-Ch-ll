@@ -8,3 +8,4 @@ In the meantime I'm sharpening my skills and collecting certificates on [Hackerr
 - [Javascript (Basic)](https://www.hackerrank.com/certificates/fbcf7c5d7950)
 - [Node (Basic)](https://www.hackerrank.com/certificates/bc64d1a27739)
 - [React (Basic)](https://www.hackerrank.com/certificates/aef13e67c31a)
+- [Problem Solving (Basic)](https://www.hackerrank.com/certificates/fc021ff4a865)
