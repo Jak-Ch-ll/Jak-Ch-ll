@@ -1,6 +1,6 @@
 ## Hello there,
 
-I'm Jakob, a self-taught web developer, currently looking for an entry-level frontend position.I n the meantime I'm sharpening my skills and collecting certifications.
+I'm Jakob, a self-taught hobby developer, currently looking for an entry-level frontend position.I n the meantime I'm sharpening my skills and collecting certifications.
 
 ## Certifications
 
