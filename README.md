@@ -1,6 +1,8 @@
 ## Hello there,
 
-I'm Jakob, a self-taught hobby developer, currently working on some [frontentmentor.io](https://www.frontendmentor.io):
+I'm Jakob, a self-taught frontend developer.
+
+[frontentmentor.io](https://www.frontendmentor.io) projects:
 
 - [NFT Preview Card Component](https://github.com/Jak-Ch-ll/FM_NFT-Preview-Card-Component)
 - [Time Tracking Dashboard](https://github.com/Jak-Ch-ll/FM_time-tracking-dashboard)
