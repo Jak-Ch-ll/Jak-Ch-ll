@@ -1,6 +1,6 @@
 ## Hello there,
 
-I'm Jakob, a self-taught frontend developer.
+I'm Jakob, a self-taught developer, currently working at [aconso](https://www.aconso.com) as a Frontend Engineer
 
 [frontentmentor.io](https://www.frontendmentor.io) projects:
 
